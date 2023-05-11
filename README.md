@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScreamingArrow
 - 👀 I’m interested in becoming a backend developer
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning java/Spring 
 - 📫 How to reach me https://www.linkedin.com/in/lucasgomes437/
 
 <!---
