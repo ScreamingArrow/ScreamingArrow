@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScreamingArrow
-- 👀 I’m interested in becoming a backend developer
+- 👀 I’m a backend developer
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me https://www.linkedin.com/in/lucasgomes437/
 
